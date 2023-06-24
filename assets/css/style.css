@@ -1,0 +1,209 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+}  */
+
+.color_name {
+    background-color: rgb(219, 140, 111);
+    color: white;
+}
+
+.color_rgba {
+    background-color: rgba(202, 153, 74, 0.8);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.color_hexa {
+    background-color: #7e4196;
+    color: #fff;
+}
+
+.color_hsl {
+    background-color: hsl(123, 41%, 37%);
+    color: hsl(0, 0%, 100%);
+}
+
+.text_left {
+    text-align: left;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
+.text_right {
+    text-align: right;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
+.text_middle {
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bold;
+}
+.upor_niche{   
+    color: rgb(195, 214, 25);
+    font-size: 50px;
+    font-family: 'Lobster Two', cursive;
+    letter-spacing: 5px;
+    text-decoration: underline overline;
+}
+
+.text_underline {
+    text-decoration: underline;}
+.text_overline {
+    text-decoration: overline;}
+.text_linethrough {
+    text-decoration: line-through;}
+.text_uppercase {
+    text-transform: uppercase;}
+.text_lowercase {
+    text-transform: lowercase;}
+.text_capitalize {
+    text-transform: capitalize;
+}
+
+.text_shadow {
+    /* text-shadow: 2px 10px 13px rgb(0 0 0 / 50%); */
+    background-color: rgb(143, 188, 165);
+    color: rgb(20, 181, 255);
+    font-size: 50px;
+    font-family: 'Great Vibes', cursive;
+    text-shadow: 2px 4px 1px black;
+    letter-spacing: 5px;
+    }
+.lekha {
+    color:rgb(70, 38, 158);
+    background-color: rgba(187, 255, 0, 0.5);
+    font-weight: bold;
+    font-size:30px;
+    font-family: 'Great Vibes', cursive;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+    line-height: 50px;
+}
+/* End */
+
+
+
+/* Start */
+.heading_1{
+    background-color: green;
+    color: #fff;
+    display: inline-block;
+    padding: 35px;
+    border-width: 18px;
+    border-style: solid;
+    border-color: red;
+    margin: 45px;
+}
+
+.heading_2{
+    background-color: green;
+    color: #fff;
+    display: inline-block;
+    border-width: 50px;
+    border-style: solid;
+    border-color: red;
+    margin-top: 37px;
+    padding-top:37px ;
+    padding-bottom: 50px;
+}
+
+.heading_3{
+    color: #fff;
+    background-color: red;
+    display: inline-block;
+    padding-bottom: 75px;
+    padding-top:50px ;
+    border-width: 30px;
+    border-style: solid;
+    border-color: green;
+    margin-left:55px ;
+    
+}
+
+.heading_4{
+    color: #fff;
+    background-color: green;
+    display: inline-block;
+    padding-right: 80px;
+    padding-left: 90px;
+    border-width: 30px;
+    border-style: solid;
+    border-color: red;
+    margin-right: 80px;
+    margin-left: 45px;
+}
+
+.heading_5{
+    color: #fff;
+    background-color: green;
+    display: inline-block;
+    padding-left: 75px;
+    border-width: 30px;
+    border-style: solid;
+    border-color: red;
+    margin-left: 50px;
+}
+
+.heading_tag_1{
+    color:  #fff;
+    background-color: green;
+
+}
+.heading_tag_2{
+    color:  #fff;
+    background-color: red;
+
+}
+.heading_tag_3{
+    margin-bottom: 30px;
+    background-color: green;
+}
+
+.heading_tag_4{
+    color: #fff;
+    background-color: rebeccapurple;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-left: 35px;
+    padding-top: 4px;
+    padding-bottom: 10px;
+}
+.heading_tag_5{
+    color: #fff;
+    background-color:orange;
+}
+.heading_tag_6{
+color: #fff;
+background-color: green;
+}
+.div_1{
+
+}
+.div-2{
+
+}
+
+.button_design{
+    color: #fff;
+    background-color: rgb(53, 87, 100);
+    margin-left:20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 25px;
+    text-decoration: none;
+    border: 5px solid rgb(6, 168, 218);
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    -ms-border-radius: 150px;
+    -o-border-radius: 150px;
+}
+/* End */
